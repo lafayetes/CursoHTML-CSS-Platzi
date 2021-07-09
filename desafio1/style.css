@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+.caja1{
+    color: white;
+    border: 2px grey;
+    position: relative;
+    text-align: center;
+    border-radius: 2rem;
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    background-color: green;
+}
+.caja2{
+    border-radius: 2rem;
+    
+    border: 2px black;
+    display: inline-block;
+    position: relative;
+    bottom: 0;
+    left: 400px;
+    min-width: 400px;
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: greenyellow;
+}

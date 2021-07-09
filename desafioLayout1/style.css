@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+
+.header-page{
+    background-color: peachpuff;
+}
+.navbar{
+    list-style: none;
+    text-align: right;
+
+}
+.navbar li{
+    display: inline-block;
+}
+.container-box{
+    width: 150px;
+    height: 150px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: purple;
+}
+.aside-box{
+    background-color: rosybrown;
+    display: inline-block;
+}
+main{
+    background-color: royalblue;
+    display: inline-block;
+}
+.parrafo{
+    display: block;
+}
